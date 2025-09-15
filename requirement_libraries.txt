@@ -1,0 +1,9 @@
+praw
+gspread
+google-api-python-client
+oauth2client
+python-dotenv
+pandas
+matplotlib
+seaborn
+requests

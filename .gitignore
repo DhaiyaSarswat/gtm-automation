@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Google service account
+google_service_account.json
+
+# PyCharm IDE settings
+.idea/
+*.iml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated files
+gtm_dashboard.png
